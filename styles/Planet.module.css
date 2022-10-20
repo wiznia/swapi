@@ -1,0 +1,6 @@
+.planet {
+  background-color: #f1f1f1;
+  list-style-type: none;
+  padding: 1.25rem;
+  flex: 1 0 max(12.5rem, 20vw);
+}
